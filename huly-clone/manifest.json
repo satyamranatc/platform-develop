@@ -1,0 +1,90 @@
+{
+  "source": "https://huly.io",
+  "pages": [
+    {
+      "url": "https://huly.io/",
+      "final_url": "https://huly.io/",
+      "status": 200,
+      "title": "Everything App for your teams"
+    },
+    {
+      "url": "https://huly.io/pricing",
+      "final_url": "https://huly.io/pricing",
+      "status": 200,
+      "title": "Everything App for your teams"
+    },
+    {
+      "url": "https://huly.io/blog",
+      "final_url": "https://huly.io/blog",
+      "status": 200,
+      "title": "Blog - Huly.io"
+    },
+    {
+      "url": "https://huly.io/download",
+      "final_url": "https://huly.io/download",
+      "status": 200,
+      "title": "All you need in one place"
+    },
+    {
+      "url": "https://huly.io/login",
+      "final_url": "https://huly.io/login",
+      "status": 200,
+      "title": "Open Source All-in-One Project Management Platform"
+    }
+  ],
+  "assets_fetched": 220,
+  "failures": [
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fa65e1fbdce846730c67d90d2cb14ca2bf65ea0af-5500x3667.jpg%3Frect%3D0%2C287%2C5500%2C3094%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fcbfdad6bb7376a389e43f095983908593646bfbe-500x500.png%3Fw%3D52%26h%3D52%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=32&q=75",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fe92102789b8c9153e103f69cf3e80ab754c4df42-1600x840.png%3Frect%3D54%2C0%2C1493%2C840%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2F11bca1a8a70aab0aa79b411c31373a389487cadb-1600x840.png%3Frect%3D54%2C0%2C1493%2C840%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fca4c079f5e3e23f9b18187970b648143b5db75f7-500x500.png%3Fw%3D52%26h%3D52%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=32&q=75",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fad06122e2ee08c375b6afadda1b9eed17ae4f52c-1600x840.png%3Frect%3D54%2C0%2C1493%2C840%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2F58ef07d5cc899497f1c8201aca91f28251d69205-3040x1600.png%3Frect%3D98%2C0%2C2844%2C1600%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2F8b628ac0ed7e1b206653ebc037c2c20d1048a2dc-1920x1080.jpg%3Fw%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2Fbbe41d1e2140b358021db0e103d5d03f8e425f08-1024x784.jpg%3Frect%3D0%2C104%2C1024%2C576%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2F6e57bdc42de9d8e0fbff2d32707b2aa4f31900ae-1520x800.png%3Frect%3D49%2C0%2C1422%2C800%26w%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fgzuai9m7%2Fproduction%2F5b23ffaa49d008fdc3dff45ac4cb5f5d4b46d246-1280x720.png%3Fw%3D896%26h%3D504%26q%3D100%26fit%3Dmax%26auto%3Dformat&w=640&q=90",
+      "status": 402
+    },
+    {
+      "url": "https://huly.io/static/rive.b8b719dae3c2060a.wasm",
+      "status": 404
+    }
+  ],
+  "skipped": [],
+  "external_hosts": [
+    "www.googletagmanager.com"
+  ]
+}
